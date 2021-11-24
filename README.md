@@ -1,7 +1,7 @@
 # TLC Trip Record Data
 
 #### Data:
-* The New York City Taxi and Limousine Commission (TLC), Over 200,000 TLC licensees complete approximately 1,000,000 trips each day. Accor to TLC the data it is recorded since 2009 - 2019 preprocess, we choose 2019 it's before COVID-19 and specificly October 2019 because it where halloween and most month that request cars, where we will find many messy data.
+* The New York City Taxi and Limousine Commission (TLC), Over 200,000 TLC licensees complete approximately 1,000,000 trips each day. Accor to TLC the data it is recorded since 2009 - 2021 preprocess, we choose 2019 it's before COVID-19 and specificly October 2019 because it where halloween and most month that request cars, where we will find many messy data.
 
 
 #### Question/need:
